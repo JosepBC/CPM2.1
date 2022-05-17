@@ -34,5 +34,4 @@ srun -c <n_threads> -p <machine> time <file>.out
 ```
 
 Where machine can be:
-* teen
-* orca
+* POP
